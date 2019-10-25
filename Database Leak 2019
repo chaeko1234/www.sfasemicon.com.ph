@@ -3,26 +3,27 @@ SITE: www.sfasemicon.com.ph
 
 DATABASE LEAK
 
-NAME	                       PASSWORDS                 USERS	    STATUS	user_level	id
 
-Mar Kevin De Guzman	fa535d981da4a50989e24321bbeaeab3	markevin0110	active	admin      	1
-Christian Daryl Gampoy	200820e3227815ed1756a6b531e7e0d2	PS01121A	inactive user	      2
-Niña May Morales	4a7d1ed414474e4033ac29ccb8653d9b	PS01071B	inactive	     user	      3
-Kimberly Robiños	d51443a1dbe8819421fedd9643e3013e	PS01475B	inactive	     user	      4
-Eluiza Asuncion Rodriguez	4a7d1ed414474e4033ac29ccb8653d9b	PS01495B	active user	      5
-Chelsie Alair Simeon	0f1ba603c1a843a3d02d6c5038d8e959	PS01771B	inactive	user	      6
-Roselyn Sotayco	4a7d1ed414474e4033ac29ccb8653d9b	PS01280B	inactive	user	            21
-Raneila Benedicto	46f94c8de14fb36680850768ff1b7f2a	PS01461B	active	user	            22
-Shierlyn Brigoli	4f9bd0080bc7a624e49152a792bc63f3	PS01775B	active	user	            23
-Ellysa Kate S. Torio	f80cdf1f67c568d9399c7bcc17ceefbc	PS01794B	active	user	        24
-April Jane S. Mas	4a7d1ed414474e4033ac29ccb8653d9b	PS01718B	inactive	user	          25
-Gerszon Dizon	50edcc7d38d5b813b7c4a0d80cd010ec	PS01778A	active	admin	                26
-Carissa Aranas Manlapat	6351bf9dce654515bf1ddbd6426dfa97	PS01972B	active	user	      27
-Maria Dominique Dizon	4a7d1ed414474e4033ac29ccb8653d9b	PS02086B	inactive	user	      29
-Julie Ann C. Maglaqui	417aa8d22619e06e7d5c9fe155863a55	PS02104B	active	user	        30
-Serna S. Mendiola	4a7d1ed414474e4033ac29ccb8653d9b	PS00320B	active	user	            31
-Donna Mae V. Calma	4a7d1ed414474e4033ac29ccb8653d9b	PS01807B	active	user	          32
-Caryl Mae Gonzales	4a7d1ed414474e4033ac29ccb8653d9b	PS01749B	active	user	          33
+name	password	username	status	user_level	id
+Mar Kevin De Guzman	fa535d981da4a50989e24321bbeaeab3	markevin0110	active	admin	1
+Christian Daryl Gampoy	200820e3227815ed1756a6b531e7e0d2	PS01121A	inactive	user	2
+Niña May Morales	4a7d1ed414474e4033ac29ccb8653d9b	PS01071B	inactive	user	3
+Kimberly Robiños	d51443a1dbe8819421fedd9643e3013e	PS01475B	inactive	user	4
+Eluiza Asuncion Rodriguez	4a7d1ed414474e4033ac29ccb8653d9b	PS01495B	active	user	5
+Chelsie Alair Simeon	0f1ba603c1a843a3d02d6c5038d8e959	PS01771B	inactive	user	6
+Roselyn Sotayco	4a7d1ed414474e4033ac29ccb8653d9b	PS01280B	inactive	user	21
+Raneila Benedicto	46f94c8de14fb36680850768ff1b7f2a	PS01461B	active	user	22
+Shierlyn Brigoli	4f9bd0080bc7a624e49152a792bc63f3	PS01775B	active	user	23
+Ellysa Kate S. Torio	f80cdf1f67c568d9399c7bcc17ceefbc	PS01794B	active	user	24
+April Jane S. Mas	4a7d1ed414474e4033ac29ccb8653d9b	PS01718B	inactive	user	25
+Gerszon Dizon	50edcc7d38d5b813b7c4a0d80cd010ec	PS01778A	active	admin	26
+Carissa Aranas Manlapat	6351bf9dce654515bf1ddbd6426dfa97	PS01972B	active	user	27
+Maria Dominique Dizon	4a7d1ed414474e4033ac29ccb8653d9b	PS02086B	inactive	user	29
+Julie Ann C. Maglaqui	417aa8d22619e06e7d5c9fe155863a55	PS02104B	active	user	30
+Serna S. Mendiola	4a7d1ed414474e4033ac29ccb8653d9b	PS00320B	active	user	31
+Donna Mae V. Calma	4a7d1ed414474e4033ac29ccb8653d9b	PS01807B	active	user	32
+Caryl Mae Gonzales	4a7d1ed414474e4033ac29ccb8653d9b	PS01749B	active	user	33
+
 
 
 SITE: http://www.asc.edu.ph
