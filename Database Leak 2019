@@ -4,7 +4,7 @@ SITE: www.sfasemicon.com.ph
 DATABASE LEAK
 
 
-name	password	username	status	user_level	id
+name	                    password	                   username	    status user_level	     id
 Mar Kevin De Guzman	fa535d981da4a50989e24321bbeaeab3	markevin0110	active	admin	1
 Christian Daryl Gampoy	200820e3227815ed1756a6b531e7e0d2	PS01121A	inactive	user	2
 Niña May Morales	4a7d1ed414474e4033ac29ccb8653d9b	PS01071B	inactive	user	3
